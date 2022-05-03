@@ -1,3 +1,8 @@
 /*estilos a aplicar si se usa bootstrap en SASS*/
-@import "bootstrapSASS/bootstrap.scss"
+@import "bootstrapSASS/bootstrap.scss";
+
+/*color en pagina contacto*/
+.body {
+    color: aqua;
+}
 
